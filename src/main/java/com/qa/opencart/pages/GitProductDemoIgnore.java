@@ -9,5 +9,7 @@ public class GitProductDemoIgnore {
 		System.out.println("product demo 3");
 		
 
+		System.out.println("product demo by tom");
+		
 	}
 }
