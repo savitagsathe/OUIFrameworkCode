@@ -8,6 +8,12 @@ public class GitProductDemoIgnore {
 		System.out.println("product demo2");
 		System.out.println("product demo 3");
 		
+		
+		System.out.println("product demo4");
+		System.out.println("product demo 5");
+		
+		System.out.println("product demo6");
+		System.out.println("product demo 7");
 
 	}
 }
