@@ -14,6 +14,7 @@ public class GitProductDemoIgnore {
 		
 		System.out.println("product demo6");
 		System.out.println("product demo 7");
+		System.out.println("product demo 8");
 
 		System.out.println("product demo by tom");
 		
