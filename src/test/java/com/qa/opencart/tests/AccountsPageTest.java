@@ -76,7 +76,7 @@ public Object[][] productSelectData() {
 	return new Object[][] {
 		{"macBook","MacBook Air"},
 		{"imac", "iMac"},
-		{"Apple", "Apple Cinema 30\""} //escape cahracter denote the for inch we have include it
+		{"Apple", "Apple Cinema 30\""} //escape character denote the for inch we have include it
 	};
 }
 
@@ -86,8 +86,4 @@ public void selectProductTest(String productName,String mainProductName) {
 	resultsPage.selectProduct(mainProductName);
 }
 	
-	
-	
-	
-
 }
