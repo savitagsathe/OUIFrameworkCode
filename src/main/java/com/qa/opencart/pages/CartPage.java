@@ -5,6 +5,8 @@ import org.openqa.selenium.By;
 public class CartPage {
 	
 	private By cartButton=By.id("cart");
+	private By cartButtontwo=By.id("cart2");
+
 	
 	public CartPage() {
 		
