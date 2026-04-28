@@ -14,7 +14,8 @@ public class CartPage {
 public void addToCart() {
 		
 		System.out.println("add To Cart");
-		System.out.println("add feature is done");
+		System.out.println("todaus added feature is done");
+
 	}
 
 }
