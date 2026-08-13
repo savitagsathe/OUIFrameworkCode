@@ -30,6 +30,7 @@ public class DriverFactory {
 
 	/*
 	 * @author savita //always good practice write author name
+	 * done the chnages
 	 */
 
 	public WebDriver initDriver(Properties prop) {
